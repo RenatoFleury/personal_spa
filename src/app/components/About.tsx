@@ -19,8 +19,8 @@ export default function About() {
         </div>
         <div>
           <p className="text-gray-600 dark:text-gray-300 mr-20">
-            Hello! I'm a passionate software engineer with over 1 years of experience in web development. 
-            I worked with python in data analisys, django in a data driven application, kotlin for mobile development, react, javascript and nextjs in web development and I'm always eager to learn new technologies 
+            Hello! I&apos;m a software engineer with over 1 years of experience in web development. 
+            I worked with python in data analisys, django in a data driven application, kotlin for mobile development, react, javascript and nextjs in web development and I&apos;m always eager to learn new technologies 
             and tackle challenging problems. I have a strong background in building scalable web applications 
             and enjoy working in collaborative team environments.
           </p>
