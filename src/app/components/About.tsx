@@ -8,7 +8,7 @@ export default function About() {
         <div className="flex justify-center md:justify-center">
           <div className="relative w-64 h-64">
             <Image
-              src="/foto_3x4.png"
+              src="./foto_3x4.png"
               alt="Profile picture"
               width={256}
               height={256}
@@ -21,8 +21,7 @@ export default function About() {
           <p className="text-gray-600 dark:text-gray-300 mr-20">
             Hello! I&apos;m a software engineer with over 1 years of experience in web development. 
             I worked with python in data analisys, django in a data driven application, kotlin for mobile development, react, javascript and nextjs in web development and I&apos;m always eager to learn new technologies 
-            and tackle challenging problems. I have a strong background in building scalable web applications 
-            and enjoy working in collaborative team environments.
+            and tackle challenging problems.
           </p>
         </div>
       </div>
